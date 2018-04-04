@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Model\Video;
 
-class VideoController extends Controller
+class VideoController extends CommonController
 {
     /**
      * Display a listing of the resource.
